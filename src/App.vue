@@ -84,7 +84,7 @@ export default {
     color: #fff;
     text-decoration: none;
     font-size: 0.8rem;
-    padding: 0.5rem;
+    padding: 0.8rem;
 
     &.router-link-exact-active {
       border-bottom: 4px solid yellow;

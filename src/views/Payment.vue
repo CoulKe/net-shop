@@ -1,5 +1,5 @@
 <template>
-  <p>k</p>
+  <h1>Oops, there's none at the moment</h1>
 </template>
 
 <script>
